@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Wonka",
+        "subtitle": "Timothée Chalamet",
+        "url": "../src/assets/movies/premiering/wonka.jpg"
+    },
+    {
+        "title": "Kathuru Mithuru",
+        "subtitle": "Giriraj Kaushalya",
+        "url": "../src/assets/movies/premiering/kathuru-mithuru.jpg"
+    },
+    {
+        "title": "Leo",
+        "subtitle": "Thalapathy Vijay",
+        "url": "../src/assets/movies/premiering/leo.jpg"
+    },
+    {
+        "title": "Pathaan",
+        "subtitle": "Shah Rukh Khan",
+        "url": "../src/assets/movies/premiering/pathaan.jpg"
+    },
+    {
+        "title": "Oppenheimer",
+        "subtitle": "Cillian Murphy",
+        "url": "../src/assets/movies/premiering/Oppenheimer.jpg"
+    }
+
+
+
+]

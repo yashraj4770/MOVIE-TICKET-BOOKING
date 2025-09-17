@@ -1,0 +1,12 @@
+[
+    {
+        "key": "1",
+        "image": "../src/assets/movies/premiering/wonka-bg.jpeg",
+        "title": "Wonka",
+        "director": "Paul King",
+        "duration": "1h 30m",
+        "cast": "Timothée Chalamet, Keegan-Michael Key, Michaela Coel, Sally Hawkins, Olivia Colman, Rowan Atkinson, Seth Rogen, Richard Ayoade, Colin Firth, Tom Holland, Jim Carter, Simon Farnaby, Ralf Little, Adeel Akhtar, Angus Imrie",
+        "description": "The story of how a young candy maker named Willy Wonka met an Oompa-Loompa while on a trip to England and how the two of them went on to create the greatest and most famous candy factory of all time. With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers."
+    }
+
+]
