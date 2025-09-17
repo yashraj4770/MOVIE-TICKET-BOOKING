@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![DockerHub Deployment](https://github.com/DushanSenadheera/PUSL3120-Project/actions/workflows/deploy-to-dockerhub.yml/badge.svg?branch=main)](https://github.com/DushanSenadheera/PUSL3120-Project/actions/workflows/deploy-to-dockerhub.yml)
 [![CodeQL](https://github.com/DushanSenadheera/PUSL3120-Project/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/DushanSenadheera/PUSL3120-Project/actions/workflows/codeql.yml)
 [![Node.js CI](https://github.com/DushanSenadheera/PUSL3120-Project/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/DushanSenadheera/PUSL3120-Project/actions/workflows/ci.yml)
@@ -18,3 +19,7 @@ fully functioning movie ticket booking web application with admin dashboard crea
 - Run the Docker image: `docker run -p 8000:8000 dcsenadheera/cinema`.
   
 The application should now be running at `http://localhost:8000`.
+=======
+# MOVIE-TICKET-BOOKING
+MERN STACK PROJECT FOR BOPKING TICKTES
+>>>>>>> b6262329596073d87109fd28f50821d5429d9178
